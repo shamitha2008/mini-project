@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase - College Attendance Dashboard & Student Portal",
+  "description": "Modern college attendance management system with faculty roster tracking, student portal with smart target calculators, and self-service password recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
